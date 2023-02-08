@@ -31,7 +31,7 @@
   "\nChinese: 他变成了他赖以生存的土地，营养物质从他的身体中流失，他的骨头变成了化石。"
   "\nCorrection: 他成为了自己所处的土壤，他的身体中的养分流失，骨骼变成了化石。"
   "\nComments: The original translation is grammatically correct, but there are some phrasing and vocabulary choices that could be improved."
-  "\nHuman: we begin now:"
+  "\n\nHuman: We begin now:"
   "\n\nEnglish: %s"
   "\nChinese: %s"))
 

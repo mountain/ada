@@ -1,7 +1,7 @@
 (defproject ada "0.0.0"
   :description "FIXME: write description"
   :url "https://github.com/mountain/ada"
-  :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
+  :license {:name "GPL-2.0"
             :url "https://www.eclipse.org/legal/epl-2.0/"}
   :dependencies [[org.clojure/clojure "1.11.1"]
                  [org.clojure/core.async "1.6.673"]
@@ -13,7 +13,8 @@
                  [clj-pid "0.1.2"]
                  [clj-systemtray "0.2.1"]
                  [com.google.code.findbugs/jsr305 "3.0.2"]
-
+                 [javax.annotation/javax.annotation-api "1.2"]
+                 [org.apache.commons/commons-lang3 "3.12.0"]
                  [junit/junit "4.13" :scope "tests"]
                  [org.mockito/mockito-core "3.12.4" :scope "tests"]
                  [org.hamcrest/hamcrest-core "2.2" :scope "tests"]
