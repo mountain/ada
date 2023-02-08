@@ -1,2 +1,2 @@
-# Ada: An NLI environment for experimentation
+# Ada: A NLI environment for experimentation
 
